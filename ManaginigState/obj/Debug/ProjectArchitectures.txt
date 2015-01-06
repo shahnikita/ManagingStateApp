@@ -1,0 +1,1 @@
+D:\DemoProjects\ManaginigState\ManaginigState\ManaginigState.csproj;neutral
